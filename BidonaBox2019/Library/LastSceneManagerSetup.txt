@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Bid on a box/Scenes/Scene03/BidBoxMap Scene03.unity
+  isLoaded: 1
+  isActive: 1
